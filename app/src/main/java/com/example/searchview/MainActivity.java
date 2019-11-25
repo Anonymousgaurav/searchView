@@ -69,6 +69,14 @@ public class MainActivity extends AppCompatActivity {
         list.add(new modelclass("JACKAL"));
         list.add(new modelclass("KINGSTON"));
         list.add(new modelclass("LITHIUM"));
+        list.add(new modelclass("MAGNESE"));
+        list.add(new modelclass("NICKEL"));
+        list.add(new modelclass("OCEAN"));
+        list.add(new modelclass("PARIS"));
+        list.add(new modelclass("QUANTUM"));
+        list.add(new modelclass("RUSSIA"));
+        list.add(new modelclass("SELENIUM"));
+        list.add(new modelclass("TORANTO"));
 
     }
 }
